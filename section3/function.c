@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 int add();
+
 int main()
 {
     int a = 2,b =5 , c;
@@ -10,9 +11,9 @@ int main()
     return 0;
 }
 
-int add( int g, int l)
+int add( int g, int b)
 {    
     int result;
-    result = g +  l;
+    result = g +  b;
     return result;
 }
