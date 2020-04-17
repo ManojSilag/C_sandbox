@@ -9,5 +9,6 @@ int main()
     printf("THis is character %s\n", word);
     printf("%d\n", month);
     // printf("%s", pie);
+
     return 0;
 }
